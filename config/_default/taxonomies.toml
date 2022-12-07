@@ -1,0 +1,6 @@
+# config/_default/taxonomies.toml
+
+shows = "shows"
+releases = "releases"
+videos = "videos"
+posts = "posts"

@@ -1,0 +1,9 @@
+# config/_default/params.toml
+
+colorScheme = "fire"
+defaultAppearance = "dark"
+autoSwitchAppearance = "true"
+enableSearch = "true"
+enableCodeCopy = "true"
+header.layout = "hybrid"
+homepage.layout = "page"

@@ -1,0 +1,13 @@
+# config/_default/languages.en.toml
+
+title = "On All Sides"
+
+[author]
+name = "On All Sides"
+image = "img/author.jpg"
+headline = "A Rock Band From St Louis"
+bio = "We Play Hard Rock"
+description = "Next Show Friday 13th"
+links = [
+  { twitter = "https://onallsides.rocks" }
+]
