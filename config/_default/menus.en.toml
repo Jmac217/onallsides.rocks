@@ -1,0 +1,20 @@
+# config/_default/menus.toml
+
+[[main]]
+  name = "Shows"
+  pageRef = "shows"
+  weight = 10
+
+[[main]]
+  name = "YouTube"
+  pageRef = "https://youtube.com"
+  weight = 20
+
+[[main]]
+  name = "Facebook"
+  pageRef = "https://facebook.com"
+  weight = 20
+
+# [[footer]]
+#   name = "Privacy"
+#   url = "https://external-link"
